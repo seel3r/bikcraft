@@ -2,7 +2,9 @@
 @import "./utilidades/tipografia.css";
 @import "./utilidades/cores.css";
 
+/* Global */
 @import "./global/header.css";
+@import "./global/footer.css";
 
 /* Utilidades */
 @import "./utilidades/componentes.css";
